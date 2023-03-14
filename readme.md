@@ -13,8 +13,8 @@
 > Start this track, grow your data science skills, and begin your journey to becoming a confident data scientist with Python.
 
 ## Courses
-> **1. Introduction to Python.**
-> **2. Intermediate Python.**
-> **3. Investigating Netflix Movies and Guest Stars in The Office.**
-> **4. Data Manipulation with Pandas.**
+> - **Introduction to Python.**
+> - **Intermediate Python.**
+> - **Investigating Netflix Movies and Guest Stars in The Office.**
+> - **Data Manipulation with Pandas.**
 
