@@ -13,8 +13,8 @@
 > Start this track, grow your data science skills, and begin your journey to becoming a confident data scientist with Python.
 
 ## Courses
-> - **Introduction to Python.**
-> - **Intermediate Python.**
-> - **Investigating Netflix Movies and Guest Stars in The Office.**
-> - **Data Manipulation with Pandas.**
+> - **[Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)**
+> - **[Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)**
+> - **[Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/entertainment-data)**
+> - **[Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)**
 
