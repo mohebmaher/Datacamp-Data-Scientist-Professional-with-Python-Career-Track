@@ -15,6 +15,6 @@
 ## Courses
 > - **[Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)**
 > - **[Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)**
-> - **[Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/entertainment-data)**
+> - **[Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/56b58480-c3a5-4356-a09e-ee378bde9df2)**
 > - **[Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)**
 
