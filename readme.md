@@ -17,4 +17,4 @@
 > - **[Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)**
 > - **[Investigating Netflix Movies and Guest Stars in The Office](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/03-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)**
 > - **[Data Manipulation with Pandas](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/04-Data-Manipulation-with-Pandas)**
-> - **[Supervised Learning with scikit-learn](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/29-Supervised-Learning-with-scikit-learn)**
+> 29. **[Supervised Learning with scikit-learn](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/29-Supervised-Learning-with-scikit-learn)**
