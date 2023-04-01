@@ -13,8 +13,6 @@
 > Start this track, grow your data science skills, and begin your journey to becoming a confident data scientist with Python.
 
 ## Courses
-> - **[Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)**
-> - **[Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)**
 > - **[Investigating Netflix Movies and Guest Stars in The Office [Project]](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/03-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)**
 > - **[Data Manipulation with Pandas](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/04-Data-Manipulation-with-Pandas)**
 > - **[Supervised Learning with scikit-learn](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/29-Supervised-Learning-with-scikit-learn)**
