@@ -16,3 +16,4 @@
 > - **[Investigating Netflix Movies and Guest Stars in The Office [Project]](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/03-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)**
 > - **[Data Manipulation with Pandas](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/04-Data-Manipulation-with-Pandas)**
 > - **[Supervised Learning with scikit-learn](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/29-Supervised-Learning-with-scikit-learn)**
+> - **[Predicting Credit Card Approvals [Project]](https://app.datacamp.com/learn/projects/558)**
