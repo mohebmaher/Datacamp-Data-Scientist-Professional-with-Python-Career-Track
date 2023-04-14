@@ -1,5 +1,5 @@
 #### PROJECT
-# [Predicting Credit Card Approvals](https://app.datacamp.com/learn/projects/558)
+# [Predicting Credit Card Approvals](https://app.datacamp.com/workspace/w/ba494cd2-407a-482f-9887-9940937f45c6)
 
 
 ## Project Description
