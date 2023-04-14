@@ -1,16 +1,14 @@
-#### PREPARE FOR CERTIFICATION
-# [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
+#### CERTIFICATION AVAILABLE
+# [Data Scientist Professional with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-professional-with-python)
 
 ## Track Description
-> Learn Python for data science and gain the career-building skills you need to succeed as a data scientist, from data manipulation to machine learning!
+> Master the skills you need to pass the Data Scientist Professional with Python certification and prepare yourself for success in the field of data science.
 
-> In this track, you’ll learn how this versatile language allows you to import, clean, manipulate, and visualize data—all integral skills for any aspiring data professional or researcher.
+> Throughout this track, you will focus on using Python for data science, starting with the basics and progressing to more advanced topics such as machine learning. You’ll cover a broad range of areas, including data manipulation, visualization, and analysis, using popular Python libraries such as pandas, Seaborn, Matplotlib, and scikit-learn.
 
-> Starting with the Python essentials for data science, you’ll work through interactive exercises that test your abilities. You’ll get hands-on with some of the most popular Python libraries for data science, including pandas, NumPy, Seaborn, Matplotlib, and many more.
+> As you progress, you’ll work through interactive exercises using real-world datasets to help you test your abilities and develop your skills. These examples will help you explore various statistical and machine learning techniques, including hypothesis testing and predictive modeling. You’ll also gain an understanding of package development, data preprocessing, SQL for relational databases, Git for data science projects, and more.
 
-> As you progress, you’ll work with real-world datasets to learn the statistical and machine learning techniques you need to perform hypothesis testing and build predictive models. You’ll also get an introduction to supervised learning with scikit-learn and apply your skills to various projects.
-
-> Start this track, grow your data science skills, and begin your journey to becoming a confident data scientist with Python.
+> Complete this track to gain the knowledge and experience necessary to confidently pass the Data Scientist Professional with Python certification and thrive as a data scientist.
 
 ## Courses
 > - **[Investigating Netflix Movies and Guest Stars in The Office [Project]](https://github.com/mohebmaher/Datacamp-Data-Scientist-with-Python-Career-Track/tree/master/03-Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)**
